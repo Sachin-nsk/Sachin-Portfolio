@@ -114,19 +114,16 @@ body {
     padding-top: 30px;
     padding-left: 10%;
     padding-right: 5%;
-
 }
-
 
 .skills-box {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     grid-gap: 40px;
     margin-top: 50px;
 }
 
 .box {
-
     padding-top: 10%;
     background-color: white;
     display: flex;
@@ -135,9 +132,7 @@ body {
     justify-content: space-evenly;
     position: relative;
     overflow: hidden;
-
     border-radius: 2px;
-
 }
 
 .box img {
@@ -153,8 +148,8 @@ body {
     margin-right: 1rem;
     color: #000000;
     font-size: 0.85rem;
-
 }
+
 
 /* For projects */
 
